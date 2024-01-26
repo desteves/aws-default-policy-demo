@@ -1,0 +1,5 @@
+config:
+  aws-default-policy-demo:containerPort: "80"
+  aws-default-policy-demo:cpu: "512"
+  aws-default-policy-demo:memory: "128"
+  aws:region: us-west-2
